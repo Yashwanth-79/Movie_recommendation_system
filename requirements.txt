@@ -3,3 +3,4 @@ numpy
 scikit-learn
 difflib
 streamlit
+streamlit-option-menu
